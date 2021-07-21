@@ -3,7 +3,7 @@
 
 apt:
   sources:
-    hashicorp:
+    apache:
       source: "deb https://apache.bintray.com/couchdb-deb stretch main"
       key: |
         -----BEGIN PGP PUBLIC KEY BLOCK-----
